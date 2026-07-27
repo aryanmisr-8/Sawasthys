@@ -1,0 +1,6 @@
+{
+  "name": "SwasthyaSamvid SaMD - Clinical Decision Support System",
+  "description": "Indian SaMD platform for clinical decision support, real-time drug interaction and side-effect analytics, ML/NLP mental health prediction with daily SWOT journal, handwritten prescription digitization, ABDM/ABHA integration, and nearby doctor directory.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
